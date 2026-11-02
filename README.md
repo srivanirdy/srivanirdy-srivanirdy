@@ -52,5 +52,5 @@ Right now, I spend most of my time designing microservices, experimenting with a
 I'm always open to talking about AI engineering, software development, or potential project collaborations.
 
 * **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com)
-* **Email:** [Srivanichittimilla@my.UNT.edu](mailto:Srivanichittimilla@my.UNT.edu)
+* **Email:** [chittimillasrivani9@gmail.com](mailto:chittimillasrivani9@gmail.com)
 * **GitHub:** [github.com/srivanirdy](https://github.com/srivanirdy)
